@@ -1,0 +1,6 @@
+# Ignore the python environment
+sentinel-env/
+__pycache__/
+*.pth
+.env
+model/
